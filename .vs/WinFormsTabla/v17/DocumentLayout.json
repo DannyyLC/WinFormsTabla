@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cerva\\OneDrive\\Documentos\\College\\Tercer_semestre\\Programacion_II\\Code\\SegundoParcial\\C#\\WinFormsTabla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5ED652-1D95-43E0-BB8E-DC2D47D7124F}|WinFormsTabla\\WinFormsTabla.csproj|c:\\users\\cerva\\onedrive\\documentos\\college\\tercer_semestre\\programacion_ii\\code\\segundoparcial\\c#\\winformstabla\\winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A5ED652-1D95-43E0-BB8E-DC2D47D7124F}|WinFormsTabla\\WinFormsTabla.csproj|solutionrelative:winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5ED652-1D95-43E0-BB8E-DC2D47D7124F}|WinFormsTabla\\WinFormsTabla.csproj|c:\\users\\cerva\\onedrive\\documentos\\college\\tercer_semestre\\programacion_ii\\code\\segundoparcial\\c#\\winformstabla\\winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5ED652-1D95-43E0-BB8E-DC2D47D7124F}|WinFormsTabla\\WinFormsTabla.csproj|solutionrelative:winformstabla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cerva\\OneDrive\\Documentos\\College\\Tercer_semestre\\Programacion_II\\Code\\SegundoParcial\\C#\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTabla\\Form1.cs",
+              "ToolTip": "C:\\Users\\cerva\\OneDrive\\Documentos\\College\\Tercer_semestre\\Programacion_II\\Code\\SegundoParcial\\C#\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeToolTip": "WinFormsTabla\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:29:35.461Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\cerva\\OneDrive\\Documentos\\College\\Tercer_semestre\\Programacion_II\\Code\\SegundoParcial\\C#\\WinFormsTabla\\WinFormsTabla\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsTabla\\Form1.cs",
+              "ToolTip": "C:\\Users\\cerva\\OneDrive\\Documentos\\College\\Tercer_semestre\\Programacion_II\\Code\\SegundoParcial\\C#\\WinFormsTabla\\WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsTabla\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:09:56.396Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
